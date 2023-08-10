@@ -14,10 +14,15 @@ A react + redux dummy web application that allows users to create, view, edit, a
 
 ## Getting Started
 ```git clone https://github.com/NSPOLE01/NoteManager``` to get a copy of this repository on your local
+
 ```brew install node``` to install NPM
+
 ```npm install``` to download all of the required dependencies
+
 ```npm start``` to spin up a local host react application
+
 ```npm install -g json-server``` to globally download and be able to run a fake-backend locally
+
 ```npm run dev-server``` in a separate terminal to be able to spin-up the fake-backend
 
 
